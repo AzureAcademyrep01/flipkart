@@ -1,1 +1,1 @@
-This is the information of flipkart project
+This is the information about git/gitlab flipkart project
